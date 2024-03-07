@@ -1,0 +1,12 @@
+{
+	"month": 3,
+	"year": 2024,
+	"api_name": "all-media-api",
+	"keys": {
+		"key1": {
+			"name": "key_name",
+			"key": "key_api",
+			"remain": 0
+		}
+    }
+}
